@@ -1,5 +1,9 @@
 class Suit:
+	introduction = ""
+	freefacts[]
 	counts = []
+	conclusion = ""
+	relief[]
 
 	def __init__( self, s ):
 		self.elementText = s;
